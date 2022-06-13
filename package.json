@@ -1,0 +1,21 @@
+{
+    "name": "good-wolf",
+    "displayName": "Good Wolf",
+    "description": "A port of good wolf from Vim",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Good Wolf",
+                "uiTheme": "vs-dark",
+                "path": "./themes/good-wolf-dark-color-theme.json"
+            }
+        ]
+    }
+}

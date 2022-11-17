@@ -12,7 +12,12 @@
     "contributes": {
         "themes": [
             {
-                "label": "Good Wolf",
+                "label": "Good Wolf (Light)",
+                "uiTheme": "vs",
+                "path": "./themes/good-wolf-light-color-theme.json"
+            },
+            {
+                "label": "Good Wolf (Dark)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/good-wolf-dark-color-theme.json"
             }

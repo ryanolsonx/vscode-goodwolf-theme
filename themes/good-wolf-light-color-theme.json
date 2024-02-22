@@ -36,7 +36,10 @@
     "statusBarItem.errorBackground": "#c72e0f",
     "statusBarItem.remoteBackground": "#16825d",
     "statusBarItem.remoteForeground": "#ffffff",
-    "tab.lastPinnedBorder": "#61616130"
+    "tab.lastPinnedBorder": "#61616130",
+    "editorBracketHighlight.foreground1": "#141413",
+    "editorBracketHighlight.foreground2": "#141413",
+    "editorBracketHighlight.foreground3": "#141413"
     //"activityBar.activeBorder": "#6f6f6f",
     //"activityBar.dropBorder": "#6f6f6f",
     //"activityBar.inactiveForeground": "#6f6f6f66",
@@ -140,9 +143,6 @@
     //"editor.wordHighlightBackground": "#57575740",
     //"editor.wordHighlightStrongBackground": "#0e639c40",
     //"editorActiveLineNumber.foreground": "#0b216f",
-    //"editorBracketHighlight.foreground1": "#0431fa",
-    //"editorBracketHighlight.foreground2": "#319331",
-    //"editorBracketHighlight.foreground3": "#7b3814",
     //"editorBracketHighlight.foreground4": "#00000000",
     //"editorBracketHighlight.foreground5": "#00000000",
     //"editorBracketHighlight.foreground6": "#00000000",

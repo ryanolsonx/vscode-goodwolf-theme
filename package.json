@@ -1,26 +1,26 @@
 {
-    "name": "good-wolf",
-    "displayName": "Good Wolf",
-    "description": "A port of good wolf from Vim",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.68.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Good Wolf (Light)",
-                "uiTheme": "vs",
-                "path": "./themes/good-wolf-light-color-theme.json"
-            },
-            {
-                "label": "Good Wolf (Dark)",
-                "uiTheme": "vs-dark",
-                "path": "./themes/good-wolf-dark-color-theme.json"
-            }
-        ]
-    }
+  "name": "good-wolf",
+  "displayName": "Good Wolf",
+  "description": "A soft-light, minimalist VS Code theme inspired by the original Good Wolf. Subtle tones, high readability, and a calm visual palette designed for focused coding.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Good Wolf (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/good-wolf-light-color-theme.json"
+      },
+      {
+        "label": "Good Wolf (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/good-wolf-dark-color-theme.json"
+      }
+    ]
+  }
 }
